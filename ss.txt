@@ -1,0 +1,16 @@
+const firebaseConfig = {
+      
+    apiKey: "AIzaSyCkBqdpVdhS9khOqkas4Klx8StnNz1jKIw",
+
+    authDomain: "fcmtest-4b3c4.firebaseapp.com",
+
+    projectId: "fcmtest-4b3c4",
+
+    storageBucket: "fcmtest-4b3c4.appspot.com",
+
+    messagingSenderId: "1058017262200",
+
+    appId: "1:1058017262200:web:101ccd16af114b1a77cb8d"
+
+  };
+
